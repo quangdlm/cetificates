@@ -1,4 +1,4 @@
-# cetificates
+# Cetificates
 ## There are some of my cetificates:
 <br>
 <li>
