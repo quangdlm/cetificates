@@ -11,10 +11,5 @@
 <br>
 <h2> There are some of my Cetification:</h2>
 <br>
-<li>
-<a href="">FPT University HCMC's Huting Scholarship Project</a>
-</li>
-<br>
-<li>
-<a href= ""> FPT University HCMC's Honorable Student of Semester</a>
+...................................................................................................................
 </li>
